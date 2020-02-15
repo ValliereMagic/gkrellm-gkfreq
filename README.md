@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/vallieremagic/gkrellm-gkfreq/badge)](https://www.codefactor.io/repository/github/vallieremagic/gkrellm-gkfreq)
 GKrellM-gkfreq
 
 A plugin to GKrellM that displays the current CPU frequencies. The plugin was 
